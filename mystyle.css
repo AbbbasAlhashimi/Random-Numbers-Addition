@@ -1,0 +1,35 @@
+body {
+	background-color:#4d91e2 ;
+}
+
+
+#wrapper {
+	
+	width: 850px;
+	height:350px;
+	background-color:yellow;
+	margin-top:120px;
+	margin-left:220px;	
+}
+
+#btn {
+	
+	background-color:red;
+	color:#fff;
+	padding:12px;
+	border-style:none;
+	font-weight:bold;
+	width:150px;
+	margin-left: 20%;
+}
+
+table
+{
+	width: 400px;
+	height: 300px;
+	margin-left: 10%;
+}
+td{
+	font-size:45px;
+	font-weight:bold;
+}

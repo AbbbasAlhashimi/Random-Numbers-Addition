@@ -1,0 +1,36 @@
+#operation
+{
+	font-size:45px;
+	font-weight:bold;
+}
+
+#numberOne
+{
+	font-size:45px;
+	font-weight:bold;
+	border:5px solid green;
+	padding:50px;
+}
+
+#numberTwo
+{
+	font-size:45px;
+	font-weight:bold;
+	border:5px solid blue;
+	padding:50px;
+}
+
+#result
+{
+	padding:10px;
+	border:2px solid #14d2d5;
+}
+
+input
+{
+	font-size:45px;
+	height: 130px;
+	width: 100px;
+    padding:10px;
+    text-align: center;
+}
