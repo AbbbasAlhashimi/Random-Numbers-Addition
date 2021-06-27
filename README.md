@@ -6,5 +6,5 @@ IF the the iserted Sum value isn't correct, the alert message will confirm it's 
 I tried to clean the code so I divided the script into two files: one initialize values, and the other process them. I hope you find it helpful.
  <br>
  The Code implementation can be found on CodePen.io [https://codepen.io/abbbas_alhashimi/pen/GRWebMo]
-Please feel free to reach me out via LinkedIn [https://www.linkedin.com/in/abbas-fadhil-ab53ba82/]
+Please feel free to reach me out via LinkedIn [https://www.linkedin.com/in/abbas-fadhil-ab53ba82/]<br>
 Kind regards
